@@ -1,512 +1,497 @@
-name: Liber Ada: Um Entrelaçamento de Raios Octarina; Uma Fuga Festiva no Espírito de Sophia
-version: v0.1
-actions:
-    - name: Preparativos
-      seq:
-        - name: Verificar ferramentas de transmissão
+name: "Liber Ada: Um Entrelaçamento de Raios Octarina; Uma Fuga Festiva no Espírito de Sophia"
+version: 0.1
+play:
+    seq:
+        - type: section
+          name: "Preparativos"
           seq:
-            - name: áudio
-            - name: vídeo
-        - name: Verificar serviço de transmissão
-        - name: Verificar acesso às mídias a serem tocadas
-    - name: Entrada
-      seq:
-        - name: Computer / Antenna
+            - name: "Verificar ferramentas de transmissão"
+              seq:
+                - name: "áudio"
+                - name: "vídeo"
+            - name: "Verificar serviço de transmissão"
+            - name: "Verificar acesso às mídias a serem tocadas"
+        - type: section
+          name: "Entrada"
           seq:
-            - mix:
-                - name: Game of life: programmable computer
-                  type: video
-                  url: https://www.youtube.com/watch?v=8unMqSp0bFY
-                - name: Kraftwerk - Antenna
-                  type: audio
-                  url: https://www.youtube.com/watch?v=PHlcSwBsyks
-            - type: speech
-              val: "There's nothing remarkable about it. All one has to
-              do is hit the right keys at the right time and the instrument
-              plays itself -- Johann Sebastian Bach"
-    - name: A Fruta
-      seq:
-        - mix:
-            - mix:
-                - name: Pietro Bapthysthe - Communion
-                  type: audio
-                  url: https://pietrobapthysthe.bandcamp.com/album/communion
-                - name: Gilberto Gil: Hacker e Pontos de Cultura
-                  type: audio
-                  url: https://www.youtube.com/watch?v=jB-GonHwL_Q
-            - seq:
-                - name: "The Big Bang - Ada Lovelace & Charles Babbage - Strange But True"
-                  type: video
-                  url: https://www.youtube.com/watch?v=4kueyMImxhY
-                - name: "False Dawn - Babbage Engine"
-                  type: video
-                  url: https://www.youtube.com/watch?v=XSkGY6LchJs
-        - type: speech
-          val: "Supposing, for instance, that the fundamental
-          relations of pitched sounds in the science of harmony and of
-          musical composition were susceptible of such expression and
-          adaptations, the engine might compose elaborate and
-          scientific pieces of music of any degree of complexity or
-          extent. --  Ada Lovelace"
-        - seq:
-            - mix:
-                - name: Mulú - Capiroto (Instrumental)
-                  type: audio
-                  url: https://www.youtube.com/watch?v=aTpTEjhyels
-                - name: "10 Minutes of Rule 30 Automata"
-                  type: video
-                  url: https://www.youtube.com/watch?v=AJFe0Aw4Mgw
-            - type: speech
-              val: "It had never occured to me that thinking and music
-              are so much alike. In fact, you can say music is another way
-              of thinking or maybe thinking is another kind of music --
-              Ursula K Leguin"
-        - name: Plantio
-          seq:
-            - name: "Coloca o véu"
-              type: screen
-              desc: "Sobrepôr à tela, com pouca opacidade, saída do comando
-              `unimatrix -c magenta -u '𒐐𒐑𒐒𒐓𒐔𒐕𒐖𒐗𒐘𒐙𒐚𒐛𒐜𒐝𒐞𒐟'`"
-            - name: "Ada Math"
-              type: speech
-              val: "Those who view mathematical science, not merely as
-              a vast body of abstract and immutable truths, whose intrinsic
-              beauty, symmetry and logical completeness, when regarded in
-              their connection together as a whole, enname them to a
-              prominent place in the interest of all profound and logical
-              minds, but as possessing a yet deeper interest for the human
-              race, when it is remembered that this science constitutes the
-              language through which alone we can adequately express the
-              great facts of the natural world, and those unceasing changes
-              of mutual relationship which, visibly or invisibly,
-              consciously or unconsciously to our immediate physical
-              perceptions, are interminably going on in the agencies of the
-              creation we live amidst: those who thus think on mathematical
-              truth as the instrument through which the weak mind of man
-              can most effectually read his Creator’s works, will regard
-              with especial interest all that can tend to facilitate the
-              translation of its principles into explicit practical forms.
-              -- Ada Lovelace"
-            - name: "Remove o véu"
-              type: filter
-              desc: "Remove o filtro colocado anteriormente"
-        - name: Aleph 2
-          type: av
-          url: https://www.youtube.com/watch?v=tNYfqklRehM
-        - mix:
-            - type: audio
-              name: "Thomash & Osmarino Freitas - Carimbo da Roça"
-              url: https://www.youtube.com/watch?v=a892rz-Egyg
-            - type: video
-              name: The Amazing World of Bees You'll Be Amazed
-              url: https://www.youtube.com/watch?v=K3oMN1a_pdg
-        - type: speech
-          val: "Do que come veio algo para comer,
-          do que é forte veio algo doce
-          O que é mais doce que o mel?
-          O que é mais forte que o leão?"
-
-        - mix:
-            - type: audio
-              name: Anonymous, Frog Round (circular Chromadepth 3D)
-              url: https://www.youtube.com/watch?v=gi8kSLcu3Cw
-            - type: video
-              name: Donut-shaped C code that generates a 3D spinning donut
-              url: https://www.youtube.com/watch?v=DEqXNfs_HhY
-        - type: speech
-          val: "As coisas não existem até que elas começam a aparecer -- Humberto Maturana"
-        - type: video
-          name: From Sand to Silicon: The Making of a Microchip | Intel
-          url: https://www.youtube.com/watch?v=_VMYPLXnd7E
-        - type: audio
-          name: Karina Buhr - Telekphonen
-          url: https://www.youtube.com/watch?v=uh9VoUdfD8k
-        - type: speech
-          val: "In almost every computation a great variety of
-          arrangements for the succession of the processes is possible, and
-          various considerations must influence the selections amongst them
-          for the purposes of a calculating engine. One essential object is
-          to choose that arrangement which shall tend to reduce to a
-          minimum the time necessary for completing the calculation [...]
-          Many persons who are not conversant with mathematical studies
-          imagine that because the business of [Babbage's Analytical
-          Engine] is to give its results in numerical notation, the nature
-          of its processes must consequently be arithmetical and numerical,
-          rather than algebraical and analytical. This is an error. The
-          engine can arrange and combine its numerical quantities exactly
-          as if they were letters or any other general symbols; and in fact
-          it might bring out its results in algebraical notation, were
-          provisions made accordingly.  The Analytical Engine weaves
-          algebraic patterns, just as the Jacquard loom weaves flowers and
-          leaves. - Ada Lovelace"
-    - name: "Olá mundo"
-      seq:
-        - mix:
-            - type: audio
-              name: Defunk - Whole Lotta Shaking
-              url: https://www.youtube.com/watch?v=iXckI4mWurQ
-            - seq:
-                - type: video
-                  name: DNA animations by wehi.tv for Science-Art exhibition
-                  url: https://www.youtube.com/watch?v=7Hk9jct2ozY
+            - name: "Computer / Antenna"
+              seq:
                 - mix:
-                  - type: speech
-                    val: "A característica mais marcante desse momento
-                    histórico não é que nós estamos no caminho para
-                    destruir nosso mundo —na verdade, já faz algum tempo
-                    que nós estamos nesse caminho.
+                    - name: "Game of life: programmable computer"
+                      type: video
+                      url: https://www.youtube.com/watch?v=8unMqSp0bFY
+                    - name: "Kraftwerk - Antenna"
+                      type: audio
+                      url: https://www.youtube.com/watch?v=PHlcSwBsyks
+                - type: speech
+                  val: "There's nothing remarkable about it. All one has to
+                  do is hit the right keys at the right time and the instrument
+                  plays itself -- Johann Sebastian Bach"
+        - type: section
+          name: "A Fruta"
+          seq:
+            - mix:
+                - mix:
+                    - name: "Pietro Bapthysthe - Communion"
+                      type: audio
+                      url: https://pietrobapthysthe.bandcamp.com/album/communion
+                    - name: "Gilberto Gil: Hacker e Pontos de Cultura"
+                      type: audio
+                      url: https://www.youtube.com/watch?v=jB-GonHwL_Q
+                - seq:
+                    - name: "The Big Bang - Ada Lovelace & Charles Babbage - Strange But True"
+                      type: video
+                      url: https://www.youtube.com/watch?v=4kueyMImxhY
+                    - name: "False Dawn - Babbage Engine"
+                      type: video
+                      url: https://www.youtube.com/watch?v=XSkGY6LchJs
+            - type: speech
+              val: "Supposing, for instance, that the fundamental
+              relations of pitched sounds in the science of harmony and of
+              musical composition were susceptible of such expression and
+              adaptations, the engine might compose elaborate and
+              scientific pieces of music of any degree of complexity or
+              extent. --  Ada Lovelace"
+            - seq:
+                - mix:
+                    - name: "Mulú - Capiroto (Instrumental)"
+                      type: audio
+                      url: https://www.youtube.com/watch?v=aTpTEjhyels
+                    - name: "10 Minutes of Rule 30 Automata"
+                      type: video
+                      url: https://www.youtube.com/watch?v=AJFe0Aw4Mgw
+                - type: speech
+                  val: "It had never occured to me that thinking and music
+                  are so much alike. In fact, you can say music is another way
+                  of thinking or maybe thinking is another kind of music --
+                  Ursula K Leguin"
+            - type: section
+              name: "Plantio"
+              seq:
+                - name: "Coloca o véu"
+                  type: screen
+                  desc: "Sobrepôr à tela, com pouca opacidade, saída do comando
+                  `unimatrix -c magenta -u '𒐐𒐑𒐒𒐓𒐔𒐕𒐖𒐗𒐘𒐙𒐚𒐛𒐜𒐝𒐞𒐟'`"
+                - name: "Ada Math"
+                  type: speech
+                  val: "Those who view mathematical science, not merely as
+                  a vast body of abstract and immutable truths, whose intrinsic
+                  beauty, symmetry and logical completeness, when regarded in
+                  their connection together as a whole, enname them to a
+                  prominent place in the interest of all profound and logical
+                  minds, but as possessing a yet deeper interest for the human
+                  race, when it is remembered that this science constitutes the
+                  language through which alone we can adequately express the
+                  great facts of the natural world, and those unceasing changes
+                  of mutual relationship which, visibly or invisibly,
+                  consciously or unconsciously to our immediate physical
+                  perceptions, are interminably going on in the agencies of the
+                  creation we live amidst: those who thus think on mathematical
+                  truth as the instrument through which the weak mind of man
+                  can most effectually read his Creator’s works, will regard
+                  with especial interest all that can tend to facilitate the
+                  translation of its principles into explicit practical forms.
+                  -- Ada Lovelace"
+                - name: "Remove o véu"
+                  type: filter
+                  desc: "Remove o filtro colocado anteriormente"
+            - name: "Aleph 2"
+              type: av
+              url: https://www.youtube.com/watch?v=tNYfqklRehM
+            - mix:
+                - type: audio
+                  name: "Thomash & Osmarino Freitas - Carimbo da Roça"
+                  url: https://www.youtube.com/watch?v=a892rz-Egyg
+                - type: video
+                  name: "The Amazing World of Bees You'll Be Amazed"
+                  url: https://www.youtube.com/watch?v=K3oMN1a_pdg
+            - type: speech
+              val: "Do que come veio algo para comer,
+              do que é forte veio algo doce
+              O que é mais doce que o mel?
+              O que é mais forte que o leão?"
 
-
-                    A característica mais marcante desse momento
-                    histórico é que nós estamos começando a acordar, de
-                    um sono milenar, para um relacionamento
-                    completamente novo com o nosso mundo, com nós
-                    mesmos(as), e com os outros.
-
-                    -- Joanna Macy"
+            - mix:
+                - type: audio
+                  name: "Anonymous, Frog Round (circular Chromadepth 3D)"
+                  url: https://www.youtube.com/watch?v=gi8kSLcu3Cw
+                - type: video
+                  name: "Donut-shaped C code that generates a 3D spinning donut"
+                  url: https://www.youtube.com/watch?v=DEqXNfs_HhY
+            - type: speech
+              val: "As coisas não existem até que elas começam a aparecer -- Humberto Maturana"
+            - type: video
+              name: "From Sand to Silicon: The Making of a Microchip | Intel"
+              url: https://www.youtube.com/watch?v=_VMYPLXnd7E
+            - type: audio
+              name: "Karina Buhr - Telekphonen"
+              url: https://www.youtube.com/watch?v=uh9VoUdfD8k
+            - type: speech
+              val: "In almost every computation a great variety of
+              arrangements for the succession of the processes is possible, and
+              various considerations must influence the selections amongst them
+              for the purposes of a calculating engine. One essential object is
+              to choose that arrangement which shall tend to reduce to a
+              minimum the time necessary for completing the calculation [...]
+              Many persons who are not conversant with mathematical studies
+              imagine that because the business of [Babbage's Analytical
+              Engine] is to give its results in numerical notation, the nature
+              of its processes must consequently be arithmetical and numerical,
+              rather than algebraical and analytical. This is an error. The
+              engine can arrange and combine its numerical quantities exactly
+              as if they were letters or any other general symbols; and in fact
+              it might bring out its results in algebraical notation, were
+              provisions made accordingly.  The Analytical Engine weaves
+              algebraic patterns, just as the Jacquard loom weaves flowers and
+              leaves. - Ada Lovelace"
+        - type: section
+          name: "Olá mundo"
+          seq:
+            - mix:
+                - type: audio
+                  name: "Defunk - Whole Lotta Shaking"
+                  url: https://www.youtube.com/watch?v=iXckI4mWurQ
+                - seq:
                     - type: video
-                      name: I Could Watch Time Lapses Of Seeds Growing All Day
-                      url: https://www.youtube.com/watch?v=ECibetK2EYI
-        - mix:
-            - type: audio
-              name:  Karina Buhr - Vira Pó
-              url: https://www.youtube.com/watch?v=aGpKxeUFVX4
-            - type: video
-              name: Entropy and the Arrow of Time
-              url: https://www.youtube.com/watch?v=L46SwgDT9To
-        - mix:
-            - type: audio
-              name:  Potyguara Bardo - Você Não Existe
-              url: https://www.youtube.com/watch?v=L46SwgDT9To
-            - type: video
-              name: Strange Loop
-              url: https://www.youtube.com/watch?v=pVjdrFw7hqg
-        - type: speech
-          val: "It turns out that an eerie type of chaos can lurk just behind a facade of order - and yet, deep inside the chaos lurks an even eerier type of order. ― Douglas R. Hofstadter"
-    - name: "Eu, robô"
-      seq:
-        - type: av
-          name: Alter | PRiSM led by Robert Laidlow 
-          url: https://www.youtube.com/watch?v=L1mQGaNmfUM
-        - type: speech
-          val: "My imagination makes me human and makes me a fool; it gives me all the world, and exiles me from it. -- Ursula K Leguin"
-        - mix:
-            - type: audio
-              name: 'Gilberto Gil - "Cérebro Eletrônico" - Gilberto Gil (1969)'
-              url: https://www.youtube.com/watch?v=-J5gTpiI3KU
-            - type: video
-              name: "A Turing Machine - Overview"
-              url: https://www.youtube.com/watch?v=E3keLeMwfHY
-        - type: speech
-          val: "I believe that at the end of the century the use of words and general educated opinion will have altered so much that one will be able to speak of machines thinking without expecting to be contradicted. - Alan Turing"
-        - mix:
-            - type: video
-              name: Thin underwater cables hold the internet. See a map of them all.
-              url: https://www.youtube.com/watch?v=Ve810FHZ1CQ
-            - type: audio
-              name: Daft Punk - Around the world (Official Audio)
-              url: https://www.youtube.com/watch?v=dwDns8x3Jb4
-        - type: av
-          name: Röyksopp - Remind Me
-          url: https://www.youtube.com/watch?v=VF8LMQQ0rEw
+                      name: "DNA animations by wehi.tv for Science-Art exhibition"
+                      url: https://www.youtube.com/watch?v=7Hk9jct2ozY
+                    - mix:
+                        - type: speech
+                          val: "A característica mais marcante desse momento
+                          histórico não é que nós estamos no caminho para
+                          destruir nosso mundo —na verdade, já faz algum tempo
+                          que nós estamos nesse caminho.
 
-        - mix:
-            - type: audio
-              name: Black Alien - Na segunda vinda
-              url: https://www.youtube.com/watch?v=j9ShOT2y57A
-            - seq:
-                - type: video
-                  name: Pursuit - ⚡️ Thunderstorm At Sea Sounds
-                  url: https://www.youtube.com/watch?v=AsD5u6k6dKI
-                - type: video
-                  name: Deep Ocean: 10 Hours of Relaxing Oceanscapes | BBC Earth
-                  url: https://www.youtube.com/watch?v=t_S_cN2re4g&t=22776s
-                - type: video
-                  name: Subnautica Ambience: Ghost Leviathans
-                  url: https://www.youtube.com/watch?v=PyHkbBShfvc
-        - type: speech
-          val: "It seems probable that once the machine thinking method had started, it would not take long to outstrip our feeble powers… They would be able to converse with each other to sharpen their wits. At some stage therefore, we should have to expect the machines to take control. ― Alan Turing"
-        - type: av
-          name: ✰ Minha pequena EVA ✰ [AMV]
-          url: https://www.youtube.com/watch?v=lcixrkOIkmQ
 
-        - mix:
-            - type: screen
-              name: Kaspersky Cyberthreat Real-time Map
-              url: https://cybermap.kaspersky.com/
-            - type: audio
-              name: Mulher do Fim do Mundo - Elza Soares (OMULU Official Remix)
-              url: https://www.youtube.com/watch?v=F1ENmgo9MrU
-        - mix:
+                            A característica mais marcante desse momento histórico
+                            é que nós estamos começando a acordar, de um sono
+                            milenar, para um relacionamento completamente novo com
+                            o nosso mundo, com nós mesmos(as), e com os outros.
+
+                            -- Joanna Macy"
+                        - type: video
+                          name: "I Could Watch Time Lapses Of Seeds Growing All Day"
+                          url: https://www.youtube.com/watch?v=ECibetK2EYI
+            - mix:
+                - type: audio
+                  name: " Karina Buhr - Vira Pó"
+                  url: https://www.youtube.com/watch?v=aGpKxeUFVX4
+                - type: video
+                  name: "Entropy and the Arrow of Time"
+                  url: https://www.youtube.com/watch?v=L46SwgDT9To
+            - mix:
+                - type: audio
+                  name: " Potyguara Bardo - Você Não Existe"
+                  url: https://www.youtube.com/watch?v=L46SwgDT9To
+                - type: video
+                  name: "Strange Loop"
+                  url: https://www.youtube.com/watch?v=pVjdrFw7hqg
+            - type: speech
+              val: "It turns out that an eerie type of chaos can lurk just behind a facade of order - and yet, deep inside the chaos lurks an even eerier type of order. ― Douglas R. Hofstadter"
+        - type: section
+          name: "Eu, robô"
+          seq:
             - type: av
-              name: The Raising of the Hand to Ishtar - by Gavin Shri Amneon
-              url: https://www.youtube.com/watch?v=xGzP9x5OmaE
-            - type: screen
-              desc: "rodar 'cacafire' e sobrepôr à tela com transparência"
-        - type: speech
-          val: "Only love expands intelligence. To live in love is to accept the other and the conditions of his existence as a source of richness, not as opposition, restriction or limitation. -- Humberto Maturana"
-        - type: speech
-          val: "Prefiro ser um ciborgue a ser uma deusa - Donna Haraway"
-        - type: av
-          name: Max Cooper - Rule 110 | Official Video by Raven Kwok
-          url: https://www.youtube.com/watch?v=5kV0AX9QWeI
-        - type: speech
-          val: "There’s a good deal in common between the mind’s eye and the TV screen, and though the TV set has all too often been the boobtube, it could be, it can be, the box of dreams -- Ursula K Leguin"
-        - mix:
-            - type: video
-              name: how life emerges
-              url: https://www.youtube.com/watch?v=makaJpLvbow
-            - seq:
+              name: "Alter | PRiSM led by Robert Laidlow "
+              url: https://www.youtube.com/watch?v=L1mQGaNmfUM
+            - type: speech
+              val: "My imagination makes me human and makes me a fool; it gives me all the world, and exiles me from it. -- Ursula K Leguin"
+            - mix:
                 - type: audio
-                  name: Da Lama ao Caos
-                  url: https://www.youtube.com/watch?v=jDI5rZCntPc
+                  name: "Gilberto Gil - Cérebro Eletrônico - Gilberto Gil (1969)"
+                  url: https://www.youtube.com/watch?v=-J5gTpiI3KU
+                - type: video
+                  name: "A Turing Machine - Overview"
+                  url: https://www.youtube.com/watch?v=E3keLeMwfHY
+            - type: speech
+              val: "I believe that at the end of the century the use of words and general educated opinion will have altered so much that one will be able to speak of machines thinking without expecting to be contradicted. - Alan Turing"
+            - mix:
+                - type: video
+                  name: "Thin underwater cables hold the internet. See a map of them all."
+                  url: https://www.youtube.com/watch?v=Ve810FHZ1CQ
                 - type: audio
-                  name: Tukum - Ciganos do espaço - (Clipe oficial)
-                  url: https://www.youtube.com/watch?v=sdEYvSgWp1A#t=9s
-        - type: speech
-          val:  "All began in love, all seeks to return in love. Love is
-          the law, the teacher of wisdom, and the great revealer of
-          mysteries.   ― Starhawk" 
-    - name: Coletas
-      seq:
-        - mix:
-            - type: video
-              name: Acompanhe o Cordão do Boi Tolo em 4K
-              url: https://www.youtube.com/watch?v=y0Tw0hN5W24
-            - type: audio
-              name: Anunciação (Micheletti Edit)
-              url: https://soundcloud.com/mmicheletti/anunciacao
-        - type: av
-          name: Cantico Brasileiro N 3 Kamaiura and Cantico Brasileiro N 7 Inkiri Om (Official Video)
-          url: https://www.youtube.com/watch?v=4TSwGsLOcLM
-
-        - type: speech
-          val: "History is a process of transformation through
-          conversation. In our efforts to produce change,we often forget
-          how important it is to pay attention to what is being conserved.
-          -- Humberto Maturana"
-
-        - mix:
-            - type: audio
-              name: Lori - The Rye and Ray Undone
-              url: https://selonetlabel.bandcamp.com/track/the-rye-and-the-ray-undone
-            - type: video
-              name: Stunning New Universe Fly-Through Really Puts Things Into Perspective
-              url: https://www.youtube.com/watch?v=nGnX6GkrOgk
-
-        - type: speech
-          val: "Uma gota de leite
-            me escorre entre os seios.
-            Uma mancha de sangue
-            me enfeita entre as pernas.
-            Meia palavra mordida
-            me foge da boca.
-            Vagos desejos insinuam esperanças.
-
-            Eu-mulher em rios vermelhos
-            inauguro a vida.
-            Em baixa voz
-            violento os tímpanos do mundo.
-            Antevejo.
-            Antecipo.
-            Antes-vivo
-
-            Antes – agora – o que há de vir.
-            Eu fêmea-matriz.
-            Eu força-motriz.
-            Eu-mulher
-            abrigo da semente
-            moto-contínuo
-            do mundo.
-            -- Maria da Conceição Evaristo"
-
-
-
-        - type: av
-          name: TETO PRETO - ITA (TANTÃO E OS FITA REMIX)
-          url: https://www.youtube.com/watch?v=fix30qhRm18
-
-        - type: speech
-          val: "Our task is to make trouble, to stir up potent response to
-          devastating events, as well as to settle troubled waters and
-          rebuild quiet places. ― Donna J. Haraway"
-
-        - type: video
-          name: Writing Qlock
-          url: https://www.youtube.com/watch?v=pgAHW8OpcTY
-
-        - mix:
-            - type: audio 
-              name: Seu 7 Encruzilhada da Lira - 9 O pino da hora grande
-              url: https://www.youtube.com/watch?v=zUOyx5kaXcw
-            - seq:
-                - type: screen
-                  name: .chaos
-                  url: https://www.openprocessing.org/sketch/426045
-                - type: screen
-                  name: Chaos
-                  url: https://www.openprocessing.org/sketch/908990
-                - type: screen
-                  name: Psychedelic Ulam Spiral
-                  url: https://www.openprocessing.org/sketch/429057
-    - name: Consagração
-      seq:
-        - type: av
-          name: MALICE MIZER - Saikai no chi to bara / 再会の血と薔薇 PV [HD 1080p]
-          url: https://www.youtube.com/watch?v=bsS5VrdUdas
-
-        - type: speech
-          val: "Sim, eu trago o fogo,
-            o outro,
-            não aquele que te apraz.
-            Ele queima sim,
-            é chama voraz
-            que derrete o bivo de teu pincel
-            incendiando até ás cinzas
-            O desejo-desenho que fazes de mim.
-
-            Sim, eu trago o fogo,
-            o outro,
-            aquele que me faz,
-            e que molda a dura pena
-            de minha escrita.
-            é este o fogo,
-            o meu, o que me arde
-            e cunha a minha face
-            na letra desenho
-            do auto-retrato meu.
-            - Maria da Conceição Evaristo"
-
-
-
-
-        - type: av
-          name: The Midnight Gospel: Sobre a Morte (Episódio Final)
-          url: https://www.youtube.com/watch?v=UTXQT0f3UMs
-
-        - mix:
-            - type: audio
-              name: A Ka Dua
-              url: https://www.youtube.com/watch?v=wTmL2aMf9M8
-            - type: video
-              name: NILE DRIFT (c/ MUS, link começa aos 25m)
-              url: https://www.youtube.com/watch?v=cySBHyKZDsM#t=23m
-
-    - name: Tropa de números
-      seq:
-        - mix:
-            - seq:
-                - type: audio
-                  name: Lori - Mosherah
-                  url: https://www.youtube.com/watch?v=RQ6mW-tzl_g
-                - type: audio
-                  name: Lori - Nowherei
-                  url: 
-
-
-            - type: audio
-              name: O Trovão, Mente Perfeita
-              url: https://www.youtube.com/watch?v=qkt78lzS6Qw
-
-            - type: video
-            - name: Particles Life (long)
-              url: https://www.youtube.com/watch?v=Qr28DwXeyu0
-
-        - mix:
-            - type: audio
-              name: Allah Elohim
-              url: https://www.youtube.com/watch?v=KgTK7S97EQU
-
-            - seq:
-                - type: video
-                  name: Cellular Automata (Langton's Ant, Turmites, Game of Life, Brian's Brain, Rule 90)
-                  url: https://www.youtube.com/watch?v=VaWEKIbFKCg&t=7s
-
-                - type: video
-                  name: Spatial Hypergraph Evolution in The Wolfram Model of Fundamental Physics
-                  url: https://www.youtube.com/watch?v=ScjQdVvMg4M
-
-
-        - mix:
-            - type: audio
-              name: Light in Babylon - Ya Sahra
-              url: https://www.youtube.com/watch?v=9ZF8ygfcDfk
-            - type: video
-              name: 3D Cellular Automata
-              url: https://www.youtube.com/watch?v=dQJ5aEsP6Fs
-
-
-
-        - type: speech
-          val: "The only thing that makes life possible is permanent, intolerable uncertainty; not knowing what comes next. - Ursula K Leguin"
-
-        - mix:
-            - type: audio
-              name:  Quatro Cântaros - Mataji - As Mães Sagradas
-              url: https://www.youtube.com/watch?v=_UEUQZsaDZ4
-            - seq:
-                - type: video
-                  name: Slime Mold Smarts
-                  url: https://www.youtube.com/watch?v=lls27hu03yw#t=8s
-                - type: video
-                  name: Mould Time-lapse - The Great British Year: Episode 4 Preview - BBC One
-                  url: https://www.youtube.com/watch?v=GY_uMH8Xpy0
-
-
-        - mix:
-            - type: audio
-              name: Carminho - Chuva no Mar com Marisa Monte
-              url: https://www.youtube.com/watch?v=hIiRXFz7C24
-            - type: video
-              name: Neurons & Synapses
-              url: https://www.youtube.com/watch?v=m0rHZ_RDdyQ
-
-
-        - type: speech
-          val: "Cyborg writing must not be about the Fall, the imagination of a once-upon-a-time wholeness before language, before writing, before Man. Cyborg writing is about the power to survive, not on the basis of original innocence, but on the basis of seizing the tools to mark the world that marked them as other. ― Donna Haraway"
-
-    - name: Cthulhuceno
-      seq:
-        - mix:
+                  name: "Daft Punk - Around the world (Official Audio)"
+                  url: https://www.youtube.com/watch?v=dwDns8x3Jb4
             - type: av
-              name: EU NÃO VOU MORRER - Ventura Profana - podeserdesligado
-              url: https://www.youtube.com/watch?v=MWZPd5EcJO8
-            - type: video
-              name: Life in life
-              url: https://www.youtube.com/watch?v=xP5-iIeKXE8
+              name: "Röyksopp - Remind Me"
+              url: https://www.youtube.com/watch?v=VF8LMQQ0rEw
 
-
-        - type: speech
-          val: "We say that the words were smooth, caressing, hard, sharp, and so on: all words that refer to body touching. Indeed we can kill or elate with words as body experiences. -- Humberto Maturana"
-
-
-        - mix:
-            - type: audio
-              name: ELA É PAN - Marcia Castro
-              url: https://www.youtube.com/watch?v=UzzTlbsOtlU
-            - type: video
-              name: Simulating an Ecosystem
-              url: https://www.youtube.com/watch?v=r_It_X7v-1E
-
-        - mix:
-            - type: audio
-              name: Ada (Version for Choir, Violin & Harp)
-              url: https://www.youtube.com/watch?v=hm7NinV37cQ
+            - mix:
+                - type: audio
+                  name: "Black Alien - Na segunda vinda"
+                  url: https://www.youtube.com/watch?v=j9ShOT2y57A
+                - seq:
+                    - type: video
+                      name: "Pursuit - ⚡️ Thunderstorm At Sea Sounds"
+                      url: https://www.youtube.com/watch?v=AsD5u6k6dKI
+                    - type: video
+                      name: "Deep Ocean: 10 Hours of Relaxing Oceanscapes | BBC Earth"
+                      url: https://www.youtube.com/watch?v=t_S_cN2re4g&t=22776s
+                    - type: video
+                      name: "Subnautica Ambience: Ghost Leviathans"
+                      url: https://www.youtube.com/watch?v=PyHkbBShfvc
+            - type: speech
+              val: "It seems probable that once the machine thinking method had started, it would not take long to outstrip our feeble powers… They would be able to converse with each other to sharpen their wits. At some stage therefore, we should have to expect the machines to take control. ― Alan Turing"
             - type: av
-              name: All 256 Rules of Elementary Cellular Automata with SDL2
-              url: https://www.youtube.com/watch?v=h-M8bNOOoHw
+              name: "✰ Minha pequena EVA ✰ [AMV]"
+              url: https://www.youtube.com/watch?v=lcixrkOIkmQ
+
+            - mix:
+                - type: screen
+                  name: "Kaspersky Cyberthreat Real-time Map"
+                  url: https://cybermap.kaspersky.com/
+                - type: audio
+                  name: "Mulher do Fim do Mundo - Elza Soares (OMULU Official Remix)"
+                  url: https://www.youtube.com/watch?v=F1ENmgo9MrU
+            - mix:
+                - type: av
+                  name: "The Raising of the Hand to Ishtar - by Gavin Shri Amneon"
+                  url: https://www.youtube.com/watch?v=xGzP9x5OmaE
+                - type: screen
+                  desc: "rodar 'cacafire' e sobrepôr à tela com transparência"
+            - type: speech
+              val: "Only love expands intelligence. To live in love is to accept the other and the conditions of his existence as a source of richness, not as opposition, restriction or limitation. -- Humberto Maturana"
+            - type: speech
+              val: "Prefiro ser um ciborgue a ser uma deusa - Donna Haraway"
+            - type: av
+              name: "Max Cooper - Rule 110 | Official Video by Raven Kwok"
+              url: https://www.youtube.com/watch?v=5kV0AX9QWeI
+            - type: speech
+              val: "There’s a good deal in common between the mind’s eye and the TV screen, and though the TV set has all too often been the boobtube, it could be, it can be, the box of dreams -- Ursula K Leguin"
+            - mix:
+                - type: video
+                  name: "how life emerges"
+                  url: https://www.youtube.com/watch?v=makaJpLvbow
+                - seq:
+                    - type: audio
+                      name: "Da Lama ao Caos"
+                      url: https://www.youtube.com/watch?v=jDI5rZCntPc
+                    - type: audio
+                      name: "Tukum - Ciganos do espaço - (Clipe oficial)"
+                      url: https://www.youtube.com/watch?v=sdEYvSgWp1A#t=9s
+            - type: speech
+              val:  "All began in love, all seeks to return in love. Love is
+              the law, the teacher of wisdom, and the great revealer of
+              mysteries.   ― Starhawk" 
+        - type: section
+          name: "Coletas"
+          seq:
+            - mix:
+                - type: video
+                  name: "Acompanhe o Cordão do Boi Tolo em 4K"
+                  url: https://www.youtube.com/watch?v=y0Tw0hN5W24
+                - type: audio
+                  name: "Anunciação (Micheletti Edit)"
+                  url: https://soundcloud.com/mmicheletti/anunciacao
+            - type: av
+              name: "Cantico Brasileiro N 3 Kamaiura and Cantico Brasileiro N 7 Inkiri Om (Official Video)"
+              url: https://www.youtube.com/watch?v=4TSwGsLOcLM
+
+            - type: speech
+              val: "History is a process of transformation through
+              conversation. In our efforts to produce change,we often forget
+              how important it is to pay attention to what is being conserved.
+              -- Humberto Maturana"
+
+            - mix:
+                - type: audio
+                  name: "Lori - The Rye and Ray Undone"
+                  url: https://selonetlabel.bandcamp.com/track/the-rye-and-the-ray-undone
+                - type: video
+                  name: "Stunning New Universe Fly-Through Really Puts Things Into Perspective"
+                  url: https://www.youtube.com/watch?v=nGnX6GkrOgk
+
+            - type: speech
+              val: "Uma gota de leite me escorre entre os seios.  Uma mancha de sangue me enfeita entre as pernas.  Meia palavra mordida me foge da boca.  Vagos desejos insinuam esperanças.  Eu-mulher em rios vermelhos inauguro a vida.  Em baixa voz violento os tímpanos do mundo.  Antevejo.  Antecipo.  Antes-vivo Antes – agora – o que há de vir.  Eu fêmea-matriz.  Eu força-motriz.  Eu-mulher abrigo da semente moto-contínuo do mundo.  -- Maria da Conceição Evaristo"
+
+            - type: av
+              name: "TETO PRETO - ITA (TANTÃO E OS FITA REMIX)"
+              url: https://www.youtube.com/watch?v=fix30qhRm18
+
+            - type: speech
+              val: "Our task is to make trouble, to stir up potent response to
+              devastating events, as well as to settle troubled waters and
+              rebuild quiet places. ― Donna J. Haraway"
+
+            - type: video
+              name: "Writing Qlock"
+              url: https://www.youtube.com/watch?v=pgAHW8OpcTY
+
+            - mix:
+                - type: audio 
+                  name: "Seu 7 Encruzilhada da Lira - 9 O pino da hora grande"
+                  url: https://www.youtube.com/watch?v=zUOyx5kaXcw
+                - seq:
+                    - type: screen
+                      name: ".chaos"
+                      url: https://www.openprocessing.org/sketch/426045
+                    - type: screen
+                      name: "Chaos"
+                      url: https://www.openprocessing.org/sketch/908990
+                    - type: screen
+                      name: "Psychedelic Ulam Spiral"
+                      url: https://www.openprocessing.org/sketch/429057
+        - type: section
+          name: "Consagração"
+          seq:
+            - type: av
+              name: "MALICE MIZER - Saikai no chi to bara / 再会の血と薔薇 PV [HD 1080p]"
+              url: https://www.youtube.com/watch?v=bsS5VrdUdas
+
+            - type: speech
+              val: "Sim, eu trago o fogo,
+                o outro,
+                não aquele que te apraz.
+                Ele queima sim,
+                é chama voraz
+                que derrete o bivo de teu pincel
+                incendiando até ás cinzas
+                O desejo-desenho que fazes de mim.
+
+                Sim, eu trago o fogo,
+                o outro,
+                aquele que me faz,
+                e que molda a dura pena
+                de minha escrita.
+                é este o fogo,
+                o meu, o que me arde
+                e cunha a minha face
+                na letra desenho
+                do auto-retrato meu.
+                - Maria da Conceição Evaristo"
 
 
-        - mix:
-            - type: audio
-              name: Elza Soares - Computadores fazem arte [Brazil, South America]
-              url: https://www.youtube.com/watch?v=A2XJ3xdeYT8
-            - seq:
+
+
+            - type: av
+              name: "The Midnight Gospel: Sobre a Morte (Episódio Final)"
+              url: https://www.youtube.com/watch?v=UTXQT0f3UMs
+
+            - mix:
+                - type: audio
+                  name: "A Ka Dua"
+                  url: https://www.youtube.com/watch?v=wTmL2aMf9M8
                 - type: video
-                  name: digital clock in conways game of life
-                  url: https://www.youtube.com/watch?v=3NDAZ5g4EuU
+                  name: "NILE DRIFT (c/ MUS, link começa aos 25m)"
+                  url: https://www.youtube.com/watch?v=cySBHyKZDsM#t=23m
+
+        - type: section
+          name: "Tropa de números"
+          seq:
+            - mix:
+                - seq:
+                    - type: audio
+                      name: "Lori - Mosherah"
+                      url: https://www.youtube.com/watch?v=RQ6mW-tzl_g
+                    - type: audio
+                      name: "Lori - Nowherei"
+                      url: 
+
+
+                - type: audio
+                  name: "O Trovão, Mente Perfeita"
+                  url: https://www.youtube.com/watch?v=qkt78lzS6Qw
+
                 - type: video
-                  name: Deep Ocean: 10 Hours of Relaxing Oceanscapes | BBC Earth
-                  url: https://www.youtube.com/watch?v=t_S_cN2re4g&t=22776s
+                  name: "Particles Life (long)"
+                  url: https://www.youtube.com/watch?v=Qr28DwXeyu0
+
+            - mix:
+                - type: audio
+                  name: "Allah Elohim"
+                  url: https://www.youtube.com/watch?v=KgTK7S97EQU
+
+                - seq:
+                    - type: video
+                      name: "Cellular Automata (Langton's Ant, Turmites, Game of Life, Brian's Brain, Rule 90)"
+                      url: https://www.youtube.com/watch?v=VaWEKIbFKCg&t=7s
+
+                    - type: video
+                      name: "Spatial Hypergraph Evolution in The Wolfram Model of Fundamental Physics"
+                      url: https://www.youtube.com/watch?v=ScjQdVvMg4M
+
+
+            - mix:
+                - type: audio
+                  name: "Light in Babylon - Ya Sahra"
+                  url: https://www.youtube.com/watch?v=9ZF8ygfcDfk
+                - type: video
+                  name: "3D Cellular Automata"
+                  url: https://www.youtube.com/watch?v=dQJ5aEsP6Fs
+
+
+
+            - type: speech
+              val: "The only thing that makes life possible is permanent, intolerable uncertainty; not knowing what comes next. - Ursula K Leguin"
+
+            - mix:
+                - type: audio
+                  name: " Quatro Cântaros - Mataji - As Mães Sagradas"
+                  url: https://www.youtube.com/watch?v=_UEUQZsaDZ4
+                - seq:
+                    - type: video
+                      name: "Slime Mold Smarts"
+                      url: https://www.youtube.com/watch?v=lls27hu03yw#t=8s
+                    - type: video
+                      name: "Mould Time-lapse - The Great British Year: Episode 4 Preview - BBC One"
+                      url: https://www.youtube.com/watch?v=GY_uMH8Xpy0
+
+
+            - mix:
+                - type: audio
+                  name: "Carminho - Chuva no Mar com Marisa Monte"
+                  url: https://www.youtube.com/watch?v=hIiRXFz7C24
+                - type: video
+                  name: "Neurons & Synapses"
+                  url: https://www.youtube.com/watch?v=m0rHZ_RDdyQ
+
+
+            - type: speech
+              val: "Cyborg writing must not be about the Fall, the imagination of a once-upon-a-time wholeness before language, before writing, before Man. Cyborg writing is about the power to survive, not on the basis of original innocence, but on the basis of seizing the tools to mark the world that marked them as other. ― Donna Haraway"
+
+        - type: section
+          name: "Cthulhuceno"
+          seq:
+            - mix:
+                - type: av
+                  name: "EU NÃO VOU MORRER - Ventura Profana - podeserdesligado"
+                  url: https://www.youtube.com/watch?v=MWZPd5EcJO8
+                - type: video
+                  name: "Life in life"
+                  url: https://www.youtube.com/watch?v=xP5-iIeKXE8
+
+
+            - type: speech
+              val: "We say that the words were smooth, caressing, hard, sharp, and so on: all words that refer to body touching. Indeed we can kill or elate with words as body experiences. -- Humberto Maturana"
+
+
+            - mix:
+                - type: audio
+                  name: "ELA É PAN - Marcia Castro"
+                  url: https://www.youtube.com/watch?v=UzzTlbsOtlU
+                - type: video
+                  name: "Simulating an Ecosystem"
+                  url: https://www.youtube.com/watch?v=r_It_X7v-1E
+
+            - mix:
+                - type: audio
+                  name: "Ada (Version for Choir, Violin & Harp)"
+                  url: https://www.youtube.com/watch?v=hm7NinV37cQ
+                - type: av
+                  name: "All 256 Rules of Elementary Cellular Automata with SDL2"
+                  url: https://www.youtube.com/watch?v=h-M8bNOOoHw
+
+
+            - mix:
+                - type: audio
+                  name: "Elza Soares - Computadores fazem arte [Brazil, South America]"
+                  url: https://www.youtube.com/watch?v=A2XJ3xdeYT8
+                - seq:
+                    - type: video
+                      name: "digital clock in conways game of life"
+                      url: https://www.youtube.com/watch?v=3NDAZ5g4EuU
+                    - type: video
+                      name: "Deep Ocean: 10 Hours of Relaxing Oceanscapes | BBC Earth"
+                      url: https://www.youtube.com/watch?v=t_S_cN2re4g&t=22776s
 
 
