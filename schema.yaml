@@ -1,0 +1,14 @@
+name: str()
+version: str()
+play: include('action')
+
+---
+
+action:
+    name: str(required=False)
+    type: str(required=False)
+    val: str(required=False)
+    desc: str(required=False)
+    url: str(required=False)
+    seq: list(include('action'), required=False)
+    mix: list(include('action'), required=False)
