@@ -8,7 +8,6 @@ Welcome to Liber Ada's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Conteúdo:
 
    sobre
    roteiro
