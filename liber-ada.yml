@@ -30,7 +30,8 @@ play:
         - type: section
           name: "A Fruta"
           seq:
-            - mix:
+            - desc: "Inserir Gil no Communion, com os vídeos rodando em sequência"
+              mix:
                 - mix:
                     - name: "Pietro Bapthysthe - Communion"
                       type: audio
