@@ -10,5 +10,6 @@ Welcome to Liber Ada's documentation!
    :maxdepth: 2
    :caption: Conteúdo:
 
+   sobre
    roteiro
 
