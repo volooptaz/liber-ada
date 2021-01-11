@@ -4,6 +4,11 @@
 Sobre
 =====
 
+.. image:: images/twitch.png
+  :width: 400
+  :align: center
+  :target: https://www.twitch.tv/videos/863842906
+
 Links
 -----
 
