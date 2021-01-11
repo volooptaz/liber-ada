@@ -65,36 +65,36 @@ play:
                   are so much alike. In fact, you can say music is another way
                   of thinking or maybe thinking is another kind of music --
                   Ursula K Leguin"
-            - type: section
-              name: "Plantio"
-              seq:
-                - name: "Coloca o véu"
-                  type: screen
-                  desc: "Sobrepôr à tela, com pouca opacidade, saída do comando
-                  `unimatrix -c magenta -u '𒐐𒐑𒐒𒐓𒐔𒐕𒐖𒐗𒐘𒐙𒐚𒐛𒐜𒐝𒐞𒐟'`"
-                - name: "Ada Math"
-                  type: speech
-                  val: "Those who view mathematical science, not merely as
-                  a vast body of abstract and immutable truths, whose intrinsic
-                  beauty, symmetry and logical completeness, when regarded in
-                  their connection together as a whole, enname them to a
-                  prominent place in the interest of all profound and logical
-                  minds, but as possessing a yet deeper interest for the human
-                  race, when it is remembered that this science constitutes the
-                  language through which alone we can adequately express the
-                  great facts of the natural world, and those unceasing changes
-                  of mutual relationship which, visibly or invisibly,
-                  consciously or unconsciously to our immediate physical
-                  perceptions, are interminably going on in the agencies of the
-                  creation we live amidst: those who thus think on mathematical
-                  truth as the instrument through which the weak mind of man
-                  can most effectually read his Creator’s works, will regard
-                  with especial interest all that can tend to facilitate the
-                  translation of its principles into explicit practical forms.
-                  -- Ada Lovelace"
-                - name: "Remove o véu"
-                  type: filter
-                  desc: "Remove o filtro colocado anteriormente"
+        - type: section
+          name: "Plantio"
+          seq:
+            - name: "Coloca o véu"
+              type: screen
+              desc: "Sobrepôr à tela, com pouca opacidade, saída do comando
+              `unimatrix -c magenta -u '𒐐𒐑𒐒𒐓𒐔𒐕𒐖𒐗𒐘𒐙𒐚𒐛𒐜𒐝𒐞𒐟'`"
+            - name: "Ada Math"
+              type: speech
+              val: "Those who view mathematical science, not merely as
+              a vast body of abstract and immutable truths, whose intrinsic
+              beauty, symmetry and logical completeness, when regarded in
+              their connection together as a whole, enname them to a
+              prominent place in the interest of all profound and logical
+              minds, but as possessing a yet deeper interest for the human
+              race, when it is remembered that this science constitutes the
+              language through which alone we can adequately express the
+              great facts of the natural world, and those unceasing changes
+              of mutual relationship which, visibly or invisibly,
+              consciously or unconsciously to our immediate physical
+              perceptions, are interminably going on in the agencies of the
+              creation we live amidst: those who thus think on mathematical
+              truth as the instrument through which the weak mind of man
+              can most effectually read his Creator’s works, will regard
+              with especial interest all that can tend to facilitate the
+              translation of its principles into explicit practical forms.
+              -- Ada Lovelace"
+            - name: "Remove o véu"
+              type: filter
+              desc: "Remove o filtro colocado anteriormente"
             - name: "Aleph 2"
               type: av
               url: https://www.youtube.com/watch?v=tNYfqklRehM
