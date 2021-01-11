@@ -11,11 +11,11 @@ def parse_seq(action, indent=0):
     doc.newline()
 
 def parse_mix(action, indent=0):
-    doc.directive('topic', content='MIX →')
+    doc.directive('line-block', content='MIX →')
     doc.newline()
     for subaction in action['mix']:
         parse_action(subaction, indent+1)
-    doc.directive('topic', content='←')
+    doc.directive('line-block', content='←')
     doc.newline()
 
 def parse_action(action, indent=0):
@@ -26,7 +26,7 @@ def parse_action(action, indent=0):
             doc.h2(action['name'])
             doc.newline()
         else:
-            doc.directive('topic', content=action['name'])
+            doc.directive('line-block', content=action['name'])
             doc.newline()
 
     if 'url' in action and action['url']:
@@ -42,7 +42,7 @@ def parse_action(action, indent=0):
         elif action['type'] == 'screen':
             pre += '🖼️ '
 
-        doc.directive('topic', content=pre+action['url'])
+        doc.directive('line-block', content=pre+action['url'])
         doc.newline()
         doc.newline()
 
