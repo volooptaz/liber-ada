@@ -4,6 +4,16 @@
 Sobre
 =====
 
+Links
+-----
+
+- `Liber Ada - volooptaz.art <https://volooptaz.art/liber-ada/>`_:
+  chamados, registros, oráculos tirados e outras novidades
+- `Repositório Github <https://github.com/volooptaz/liber-ada/>`_:
+  Código-fonte usado para gerar este arquivo
+- `Canal no Twitch <https://twitch.tv/volooptaz>`_: onde estão sendo
+  feitas as transmissões, com gravação das anteriores
+
 A Semente
 ---------
 
@@ -121,13 +131,3 @@ volooptaz
 `volooptaz <https://volooptaz.art>`_ explora o uso de música e da linguagem ritualística para
 proporcionar espaços de confiança e de diálogo de corpos e mentes, e
 também de exploração do ambiente digital.
-
-Links
------
-
-- `Liber Ada - volooptaz.art <https://volooptaz.art/liber-ada/>`_:
-  chamados, registros, oráculos tirados e outras novidades
-- `Repositório Github <https://github.com/volooptaz/liber-ada/>`_:
-  Código-fonte usado para gerar este arquivo
-- `Canal no Twitch <https://twitch.tv/volooptaz>`_: onde estão sendo
-  feitas as transmissões, com gravação das anteriores
