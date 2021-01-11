@@ -5,25 +5,25 @@ Liber Ada: Um Entrelaçamento de Raios Octarina; Uma Fuga Festiva no Espírito d
 Preparativos
 ------------
 
-.. topic::
+.. line-block::
 
    Verificar ferramentas de transmissão
 
-.. topic::
+.. line-block::
 
    áudio
 
-.. topic::
+.. line-block::
 
    vídeo
 
 
 
-.. topic::
+.. line-block::
 
    Verificar serviço de transmissão
 
-.. topic::
+.. line-block::
 
    Verificar acesso às mídias a serem tocadas
 
@@ -32,33 +32,33 @@ Preparativos
 Entrada
 -------
 
-.. topic::
+.. line-block::
 
    Computer / Antenna
 
-.. topic::
+.. line-block::
 
    MIX →
 
-.. topic::
+.. line-block::
 
    Game of life: programmable computer
 
-.. topic::
+.. line-block::
 
    🎥 https://www.youtube.com/watch?v=8unMqSp0bFY
 
 
-.. topic::
+.. line-block::
 
    Kraftwerk - Antenna
 
-.. topic::
+.. line-block::
 
    🔊 https://www.youtube.com/watch?v=PHlcSwBsyks
 
 
-.. topic::
+.. line-block::
 
    ←
 
@@ -73,57 +73,57 @@ Entrada
 A Fruta
 -------
 
-.. topic::
+.. line-block::
 
    MIX →
 
-.. topic::
+.. line-block::
 
    MIX →
 
-.. topic::
+.. line-block::
 
    Pietro Bapthysthe - Communion
 
-.. topic::
+.. line-block::
 
    🔊 https://pietrobapthysthe.bandcamp.com/album/communion
 
 
-.. topic::
+.. line-block::
 
    Gilberto Gil: Hacker e Pontos de Cultura
 
-.. topic::
+.. line-block::
 
    🔊 https://www.youtube.com/watch?v=jB-GonHwL_Q
 
 
-.. topic::
+.. line-block::
 
    ←
 
-.. topic::
+.. line-block::
 
    The Big Bang - Ada Lovelace & Charles Babbage - Strange But True
 
-.. topic::
+.. line-block::
 
    🎥 https://www.youtube.com/watch?v=4kueyMImxhY
 
 
-.. topic::
+.. line-block::
 
    False Dawn - Babbage Engine
 
-.. topic::
+.. line-block::
 
    🎥 https://www.youtube.com/watch?v=XSkGY6LchJs
 
 
 
 
-.. topic::
+.. line-block::
 
    ←
 
@@ -131,29 +131,29 @@ A Fruta
 
    💬 Supposing, for instance, that the fundamental relations of pitched sounds in the science of harmony and of musical composition were susceptible of such expression and adaptations, the engine might compose elaborate and scientific pieces of music of any degree of complexity or extent. --  Ada Lovelace
 
-.. topic::
+.. line-block::
 
    MIX →
 
-.. topic::
+.. line-block::
 
    Mulú - Capiroto (Instrumental)
 
-.. topic::
+.. line-block::
 
    🔊 https://www.youtube.com/watch?v=aTpTEjhyels
 
 
-.. topic::
+.. line-block::
 
    10 Minutes of Rule 30 Automata
 
-.. topic::
+.. line-block::
 
    🎥 https://www.youtube.com/watch?v=AJFe0Aw4Mgw
 
 
-.. topic::
+.. line-block::
 
    ←
 
@@ -166,11 +166,11 @@ A Fruta
 Plantio
 -------
 
-.. topic::
+.. line-block::
 
    Coloca o véu
 
-.. topic::
+.. line-block::
 
    Ada Math
 
@@ -178,44 +178,44 @@ Plantio
 
    💬 Those who view mathematical science, not merely as a vast body of abstract and immutable truths, whose intrinsic beauty, symmetry and logical completeness, when regarded in their connection together as a whole, enname them to a prominent place in the interest of all profound and logical minds, but as possessing a yet deeper interest for the human race, when it is remembered that this science constitutes the language through which alone we can adequately express the great facts of the natural world, and those unceasing changes of mutual relationship which, visibly or invisibly, consciously or unconsciously to our immediate physical perceptions, are interminably going on in the agencies of the creation we live amidst: those who thus think on mathematical truth as the instrument through which the weak mind of man can most effectually read his Creator’s works, will regard with especial interest all that can tend to facilitate the translation of its principles into explicit practical forms. -- Ada Lovelace
 
-.. topic::
+.. line-block::
 
    Remove o véu
 
 
 
-.. topic::
+.. line-block::
 
    Aleph 2
 
-.. topic::
+.. line-block::
 
    🎥🔊 https://www.youtube.com/watch?v=tNYfqklRehM
 
 
-.. topic::
+.. line-block::
 
    MIX →
 
-.. topic::
+.. line-block::
 
    Thomash & Osmarino Freitas - Carimbo da Roça
 
-.. topic::
+.. line-block::
 
    🔊 https://www.youtube.com/watch?v=a892rz-Egyg
 
 
-.. topic::
+.. line-block::
 
    The Amazing World of Bees You'll Be Amazed
 
-.. topic::
+.. line-block::
 
    🎥 https://www.youtube.com/watch?v=K3oMN1a_pdg
 
 
-.. topic::
+.. line-block::
 
    ←
 
@@ -223,29 +223,29 @@ Plantio
 
    💬 Do que come veio algo para comer, do que é forte veio algo doce O que é mais doce que o mel? O que é mais forte que o leão?
 
-.. topic::
+.. line-block::
 
    MIX →
 
-.. topic::
+.. line-block::
 
    Anonymous, Frog Round (circular Chromadepth 3D)
 
-.. topic::
+.. line-block::
 
    🔊 https://www.youtube.com/watch?v=gi8kSLcu3Cw
 
 
-.. topic::
+.. line-block::
 
    Donut-shaped C code that generates a 3D spinning donut
 
-.. topic::
+.. line-block::
 
    🎥 https://www.youtube.com/watch?v=DEqXNfs_HhY
 
 
-.. topic::
+.. line-block::
 
    ←
 
@@ -253,20 +253,20 @@ Plantio
 
    💬 As coisas não existem até que elas começam a aparecer -- Humberto Maturana
 
-.. topic::
+.. line-block::
 
    From Sand to Silicon: The Making of a Microchip | Intel
 
-.. topic::
+.. line-block::
 
    🎥 https://www.youtube.com/watch?v=_VMYPLXnd7E
 
 
-.. topic::
+.. line-block::
 
    Karina Buhr - Telekphonen
 
-.. topic::
+.. line-block::
 
    🔊 https://www.youtube.com/watch?v=uh9VoUdfD8k
 
@@ -280,29 +280,29 @@ Plantio
 Olá mundo
 ---------
 
-.. topic::
+.. line-block::
 
    MIX →
 
-.. topic::
+.. line-block::
 
    Defunk - Whole Lotta Shaking
 
-.. topic::
+.. line-block::
 
    🔊 https://www.youtube.com/watch?v=iXckI4mWurQ
 
 
-.. topic::
+.. line-block::
 
    DNA animations by wehi.tv for Science-Art exhibition
 
-.. topic::
+.. line-block::
 
    🎥 https://www.youtube.com/watch?v=7Hk9jct2ozY
 
 
-.. topic::
+.. line-block::
 
    MIX →
 
@@ -313,74 +313,74 @@ Olá mundo
 A característica mais marcante desse momento histórico é que nós estamos começando a acordar, de um sono milenar, para um relacionamento completamente novo com o nosso mundo, com nós mesmos(as), e com os outros.
 -- Joanna Macy
 
-.. topic::
+.. line-block::
 
    I Could Watch Time Lapses Of Seeds Growing All Day
 
-.. topic::
+.. line-block::
 
    🎥 https://www.youtube.com/watch?v=ECibetK2EYI
 
 
-.. topic::
+.. line-block::
 
    ←
 
 
 
-.. topic::
+.. line-block::
 
    ←
 
-.. topic::
+.. line-block::
 
    MIX →
 
-.. topic::
+.. line-block::
 
     Karina Buhr - Vira Pó
 
-.. topic::
+.. line-block::
 
    🔊 https://www.youtube.com/watch?v=aGpKxeUFVX4
 
 
-.. topic::
+.. line-block::
 
    Entropy and the Arrow of Time
 
-.. topic::
+.. line-block::
 
    🎥 https://www.youtube.com/watch?v=L46SwgDT9To
 
 
-.. topic::
+.. line-block::
 
    ←
 
-.. topic::
+.. line-block::
 
    MIX →
 
-.. topic::
+.. line-block::
 
     Potyguara Bardo - Você Não Existe
 
-.. topic::
+.. line-block::
 
    🔊 https://www.youtube.com/watch?v=L46SwgDT9To
 
 
-.. topic::
+.. line-block::
 
    Strange Loop
 
-.. topic::
+.. line-block::
 
    🎥 https://www.youtube.com/watch?v=pVjdrFw7hqg
 
 
-.. topic::
+.. line-block::
 
    ←
 
@@ -393,11 +393,11 @@ A característica mais marcante desse momento histórico é que nós estamos com
 Eu, robô
 --------
 
-.. topic::
+.. line-block::
 
    Alter | PRiSM led by Robert Laidlow 
 
-.. topic::
+.. line-block::
 
    🎥🔊 https://www.youtube.com/watch?v=L1mQGaNmfUM
 
@@ -406,29 +406,29 @@ Eu, robô
 
    💬 My imagination makes me human and makes me a fool; it gives me all the world, and exiles me from it. -- Ursula K Leguin
 
-.. topic::
+.. line-block::
 
    MIX →
 
-.. topic::
+.. line-block::
 
    Gilberto Gil - Cérebro Eletrônico - Gilberto Gil (1969)
 
-.. topic::
+.. line-block::
 
    🔊 https://www.youtube.com/watch?v=-J5gTpiI3KU
 
 
-.. topic::
+.. line-block::
 
    A Turing Machine - Overview
 
-.. topic::
+.. line-block::
 
    🎥 https://www.youtube.com/watch?v=E3keLeMwfHY
 
 
-.. topic::
+.. line-block::
 
    ←
 
@@ -436,84 +436,84 @@ Eu, robô
 
    💬 I believe that at the end of the century the use of words and general educated opinion will have altered so much that one will be able to speak of machines thinking without expecting to be contradicted. - Alan Turing
 
-.. topic::
+.. line-block::
 
    MIX →
 
-.. topic::
+.. line-block::
 
    Thin underwater cables hold the internet. See a map of them all.
 
-.. topic::
+.. line-block::
 
    🎥 https://www.youtube.com/watch?v=Ve810FHZ1CQ
 
 
-.. topic::
+.. line-block::
 
    Daft Punk - Around the world (Official Audio)
 
-.. topic::
+.. line-block::
 
    🔊 https://www.youtube.com/watch?v=dwDns8x3Jb4
 
 
-.. topic::
+.. line-block::
 
    ←
 
-.. topic::
+.. line-block::
 
    Röyksopp - Remind Me
 
-.. topic::
+.. line-block::
 
    🎥🔊 https://www.youtube.com/watch?v=VF8LMQQ0rEw
 
 
-.. topic::
+.. line-block::
 
    MIX →
 
-.. topic::
+.. line-block::
 
    Black Alien - Na segunda vinda
 
-.. topic::
+.. line-block::
 
    🔊 https://www.youtube.com/watch?v=j9ShOT2y57A
 
 
-.. topic::
+.. line-block::
 
    Pursuit - ⚡️ Thunderstorm At Sea Sounds
 
-.. topic::
+.. line-block::
 
    🎥 https://www.youtube.com/watch?v=AsD5u6k6dKI
 
 
-.. topic::
+.. line-block::
 
    Deep Ocean: 10 Hours of Relaxing Oceanscapes | BBC Earth
 
-.. topic::
+.. line-block::
 
    🎥 https://www.youtube.com/watch?v=t_S_cN2re4g&t=22776s
 
 
-.. topic::
+.. line-block::
 
    Subnautica Ambience: Ghost Leviathans
 
-.. topic::
+.. line-block::
 
    🎥 https://www.youtube.com/watch?v=PyHkbBShfvc
 
 
 
 
-.. topic::
+.. line-block::
 
    ←
 
@@ -521,55 +521,55 @@ Eu, robô
 
    💬 It seems probable that once the machine thinking method had started, it would not take long to outstrip our feeble powers… They would be able to converse with each other to sharpen their wits. At some stage therefore, we should have to expect the machines to take control. ― Alan Turing
 
-.. topic::
+.. line-block::
 
    ✰ Minha pequena EVA ✰ [AMV]
 
-.. topic::
+.. line-block::
 
    🎥🔊 https://www.youtube.com/watch?v=lcixrkOIkmQ
 
 
-.. topic::
+.. line-block::
 
    MIX →
 
-.. topic::
+.. line-block::
 
    Kaspersky Cyberthreat Real-time Map
 
-.. topic::
+.. line-block::
 
    🖼️ https://cybermap.kaspersky.com/
 
 
-.. topic::
+.. line-block::
 
    Mulher do Fim do Mundo - Elza Soares (OMULU Official Remix)
 
-.. topic::
+.. line-block::
 
    🔊 https://www.youtube.com/watch?v=F1ENmgo9MrU
 
 
-.. topic::
+.. line-block::
 
    ←
 
-.. topic::
+.. line-block::
 
    MIX →
 
-.. topic::
+.. line-block::
 
    The Raising of the Hand to Ishtar - by Gavin Shri Amneon
 
-.. topic::
+.. line-block::
 
    🎥🔊 https://www.youtube.com/watch?v=xGzP9x5OmaE
 
 
-.. topic::
+.. line-block::
 
    ←
 
@@ -581,11 +581,11 @@ Eu, robô
 
    💬 Prefiro ser um ciborgue a ser uma deusa - Donna Haraway
 
-.. topic::
+.. line-block::
 
    Max Cooper - Rule 110 | Official Video by Raven Kwok
 
-.. topic::
+.. line-block::
 
    🎥🔊 https://www.youtube.com/watch?v=5kV0AX9QWeI
 
@@ -594,40 +594,40 @@ Eu, robô
 
    💬 There’s a good deal in common between the mind’s eye and the TV screen, and though the TV set has all too often been the boobtube, it could be, it can be, the box of dreams -- Ursula K Leguin
 
-.. topic::
+.. line-block::
 
    MIX →
 
-.. topic::
+.. line-block::
 
    how life emerges
 
-.. topic::
+.. line-block::
 
    🎥 https://www.youtube.com/watch?v=makaJpLvbow
 
 
-.. topic::
+.. line-block::
 
    Da Lama ao Caos
 
-.. topic::
+.. line-block::
 
    🔊 https://www.youtube.com/watch?v=jDI5rZCntPc
 
 
-.. topic::
+.. line-block::
 
    Tukum - Ciganos do espaço - (Clipe oficial)
 
-.. topic::
+.. line-block::
 
    🔊 https://www.youtube.com/watch?v=sdEYvSgWp1A#t=9s
 
 
 
 
-.. topic::
+.. line-block::
 
    ←
 
@@ -640,37 +640,37 @@ Eu, robô
 Coletas
 -------
 
-.. topic::
+.. line-block::
 
    MIX →
 
-.. topic::
+.. line-block::
 
    Acompanhe o Cordão do Boi Tolo em 4K
 
-.. topic::
+.. line-block::
 
    🎥 https://www.youtube.com/watch?v=y0Tw0hN5W24
 
 
-.. topic::
+.. line-block::
 
    Anunciação (Micheletti Edit)
 
-.. topic::
+.. line-block::
 
    🔊 https://soundcloud.com/mmicheletti/anunciacao
 
 
-.. topic::
+.. line-block::
 
    ←
 
-.. topic::
+.. line-block::
 
    Cantico Brasileiro N 3 Kamaiura and Cantico Brasileiro N 7 Inkiri Om (Official Video)
 
-.. topic::
+.. line-block::
 
    🎥🔊 https://www.youtube.com/watch?v=4TSwGsLOcLM
 
@@ -679,29 +679,29 @@ Coletas
 
    💬 History is a process of transformation through conversation. In our efforts to produce change,we often forget how important it is to pay attention to what is being conserved. -- Humberto Maturana
 
-.. topic::
+.. line-block::
 
    MIX →
 
-.. topic::
+.. line-block::
 
    Lori - The Rye and Ray Undone
 
-.. topic::
+.. line-block::
 
    🔊 https://selonetlabel.bandcamp.com/track/the-rye-and-the-ray-undone
 
 
-.. topic::
+.. line-block::
 
    Stunning New Universe Fly-Through Really Puts Things Into Perspective
 
-.. topic::
+.. line-block::
 
    🎥 https://www.youtube.com/watch?v=nGnX6GkrOgk
 
 
-.. topic::
+.. line-block::
 
    ←
 
@@ -709,11 +709,11 @@ Coletas
 
    💬 Uma gota de leite me escorre entre os seios.  Uma mancha de sangue me enfeita entre as pernas.  Meia palavra mordida me foge da boca.  Vagos desejos insinuam esperanças.  Eu-mulher em rios vermelhos inauguro a vida.  Em baixa voz violento os tímpanos do mundo.  Antevejo.  Antecipo.  Antes-vivo Antes – agora – o que há de vir.  Eu fêmea-matriz.  Eu força-motriz.  Eu-mulher abrigo da semente moto-contínuo do mundo.  -- Maria da Conceição Evaristo
 
-.. topic::
+.. line-block::
 
    TETO PRETO - ITA (TANTÃO E OS FITA REMIX)
 
-.. topic::
+.. line-block::
 
    🎥🔊 https://www.youtube.com/watch?v=fix30qhRm18
 
@@ -722,58 +722,58 @@ Coletas
 
    💬 Our task is to make trouble, to stir up potent response to devastating events, as well as to settle troubled waters and rebuild quiet places. ― Donna J. Haraway
 
-.. topic::
+.. line-block::
 
    Writing Qlock
 
-.. topic::
+.. line-block::
 
    🎥 https://www.youtube.com/watch?v=pgAHW8OpcTY
 
 
-.. topic::
+.. line-block::
 
    MIX →
 
-.. topic::
+.. line-block::
 
    Seu 7 Encruzilhada da Lira - 9 O pino da hora grande
 
-.. topic::
+.. line-block::
 
    🔊 https://www.youtube.com/watch?v=zUOyx5kaXcw
 
 
-.. topic::
+.. line-block::
 
    .chaos
 
-.. topic::
+.. line-block::
 
    🖼️ https://www.openprocessing.org/sketch/426045
 
 
-.. topic::
+.. line-block::
 
    Chaos
 
-.. topic::
+.. line-block::
 
    🖼️ https://www.openprocessing.org/sketch/908990
 
 
-.. topic::
+.. line-block::
 
    Psychedelic Ulam Spiral
 
-.. topic::
+.. line-block::
 
    🖼️ https://www.openprocessing.org/sketch/429057
 
 
 
 
-.. topic::
+.. line-block::
 
    ←
 
@@ -782,11 +782,11 @@ Coletas
 Consagração
 -----------
 
-.. topic::
+.. line-block::
 
    MALICE MIZER - Saikai no chi to bara / 再会の血と薔薇 PV [HD 1080p]
 
-.. topic::
+.. line-block::
 
    🎥🔊 https://www.youtube.com/watch?v=bsS5VrdUdas
 
@@ -796,38 +796,38 @@ Consagração
    💬 Sim, eu trago o fogo, o outro, não aquele que te apraz. Ele queima sim, é chama voraz que derrete o bivo de teu pincel incendiando até ás cinzas O desejo-desenho que fazes de mim.
 Sim, eu trago o fogo, o outro, aquele que me faz, e que molda a dura pena de minha escrita. é este o fogo, o meu, o que me arde e cunha a minha face na letra desenho do auto-retrato meu. - Maria da Conceição Evaristo
 
-.. topic::
+.. line-block::
 
    The Midnight Gospel: Sobre a Morte (Episódio Final)
 
-.. topic::
+.. line-block::
 
    🎥🔊 https://www.youtube.com/watch?v=UTXQT0f3UMs
 
 
-.. topic::
+.. line-block::
 
    MIX →
 
-.. topic::
+.. line-block::
 
    A Ka Dua
 
-.. topic::
+.. line-block::
 
    🔊 https://www.youtube.com/watch?v=wTmL2aMf9M8
 
 
-.. topic::
+.. line-block::
 
    NILE DRIFT (c/ MUS, link começa aos 25m)
 
-.. topic::
+.. line-block::
 
    🎥 https://www.youtube.com/watch?v=cySBHyKZDsM#t=23m
 
 
-.. topic::
+.. line-block::
 
    ←
 
@@ -836,107 +836,107 @@ Sim, eu trago o fogo, o outro, aquele que me faz, e que molda a dura pena de min
 Tropa de números
 ----------------
 
-.. topic::
+.. line-block::
 
    MIX →
 
-.. topic::
+.. line-block::
 
    Lori - Mosherah
 
-.. topic::
+.. line-block::
 
    🔊 https://www.youtube.com/watch?v=RQ6mW-tzl_g
 
 
-.. topic::
+.. line-block::
 
    Lori - Nowherei
 
 
 
-.. topic::
+.. line-block::
 
    O Trovão, Mente Perfeita
 
-.. topic::
+.. line-block::
 
    🔊 https://www.youtube.com/watch?v=qkt78lzS6Qw
 
 
-.. topic::
+.. line-block::
 
    Particles Life (long)
 
-.. topic::
+.. line-block::
 
    🎥 https://www.youtube.com/watch?v=Qr28DwXeyu0
 
 
-.. topic::
+.. line-block::
 
    ←
 
-.. topic::
+.. line-block::
 
    MIX →
 
-.. topic::
+.. line-block::
 
    Allah Elohim
 
-.. topic::
+.. line-block::
 
    🔊 https://www.youtube.com/watch?v=KgTK7S97EQU
 
 
-.. topic::
+.. line-block::
 
    Cellular Automata (Langton's Ant, Turmites, Game of Life, Brian's Brain, Rule 90)
 
-.. topic::
+.. line-block::
 
    🎥 https://www.youtube.com/watch?v=VaWEKIbFKCg&t=7s
 
 
-.. topic::
+.. line-block::
 
    Spatial Hypergraph Evolution in The Wolfram Model of Fundamental Physics
 
-.. topic::
+.. line-block::
 
    🎥 https://www.youtube.com/watch?v=ScjQdVvMg4M
 
 
 
 
-.. topic::
+.. line-block::
 
    ←
 
-.. topic::
+.. line-block::
 
    MIX →
 
-.. topic::
+.. line-block::
 
    Light in Babylon - Ya Sahra
 
-.. topic::
+.. line-block::
 
    🔊 https://www.youtube.com/watch?v=9ZF8ygfcDfk
 
 
-.. topic::
+.. line-block::
 
    3D Cellular Automata
 
-.. topic::
+.. line-block::
 
    🎥 https://www.youtube.com/watch?v=dQJ5aEsP6Fs
 
 
-.. topic::
+.. line-block::
 
    ←
 
@@ -944,66 +944,66 @@ Tropa de números
 
    💬 The only thing that makes life possible is permanent, intolerable uncertainty; not knowing what comes next. - Ursula K Leguin
 
-.. topic::
+.. line-block::
 
    MIX →
 
-.. topic::
+.. line-block::
 
     Quatro Cântaros - Mataji - As Mães Sagradas
 
-.. topic::
+.. line-block::
 
    🔊 https://www.youtube.com/watch?v=_UEUQZsaDZ4
 
 
-.. topic::
+.. line-block::
 
    Slime Mold Smarts
 
-.. topic::
+.. line-block::
 
    🎥 https://www.youtube.com/watch?v=lls27hu03yw#t=8s
 
 
-.. topic::
+.. line-block::
 
    Mould Time-lapse - The Great British Year: Episode 4 Preview - BBC One
 
-.. topic::
+.. line-block::
 
    🎥 https://www.youtube.com/watch?v=GY_uMH8Xpy0
 
 
 
 
-.. topic::
+.. line-block::
 
    ←
 
-.. topic::
+.. line-block::
 
    MIX →
 
-.. topic::
+.. line-block::
 
    Carminho - Chuva no Mar com Marisa Monte
 
-.. topic::
+.. line-block::
 
    🔊 https://www.youtube.com/watch?v=hIiRXFz7C24
 
 
-.. topic::
+.. line-block::
 
    Neurons & Synapses
 
-.. topic::
+.. line-block::
 
    🎥 https://www.youtube.com/watch?v=m0rHZ_RDdyQ
 
 
-.. topic::
+.. line-block::
 
    ←
 
@@ -1016,29 +1016,29 @@ Tropa de números
 Cthulhuceno
 -----------
 
-.. topic::
+.. line-block::
 
    MIX →
 
-.. topic::
+.. line-block::
 
    EU NÃO VOU MORRER - Ventura Profana - podeserdesligado
 
-.. topic::
+.. line-block::
 
    🎥🔊 https://www.youtube.com/watch?v=MWZPd5EcJO8
 
 
-.. topic::
+.. line-block::
 
    Life in life
 
-.. topic::
+.. line-block::
 
    🎥 https://www.youtube.com/watch?v=xP5-iIeKXE8
 
 
-.. topic::
+.. line-block::
 
    ←
 
@@ -1046,92 +1046,92 @@ Cthulhuceno
 
    💬 We say that the words were smooth, caressing, hard, sharp, and so on: all words that refer to body touching. Indeed we can kill or elate with words as body experiences. -- Humberto Maturana
 
-.. topic::
+.. line-block::
 
    MIX →
 
-.. topic::
+.. line-block::
 
    ELA É PAN - Marcia Castro
 
-.. topic::
+.. line-block::
 
    🔊 https://www.youtube.com/watch?v=UzzTlbsOtlU
 
 
-.. topic::
+.. line-block::
 
    Simulating an Ecosystem
 
-.. topic::
+.. line-block::
 
    🎥 https://www.youtube.com/watch?v=r_It_X7v-1E
 
 
-.. topic::
+.. line-block::
 
    ←
 
-.. topic::
+.. line-block::
 
    MIX →
 
-.. topic::
+.. line-block::
 
    Ada (Version for Choir, Violin & Harp)
 
-.. topic::
+.. line-block::
 
    🔊 https://www.youtube.com/watch?v=hm7NinV37cQ
 
 
-.. topic::
+.. line-block::
 
    All 256 Rules of Elementary Cellular Automata with SDL2
 
-.. topic::
+.. line-block::
 
    🎥🔊 https://www.youtube.com/watch?v=h-M8bNOOoHw
 
 
-.. topic::
+.. line-block::
 
    ←
 
-.. topic::
+.. line-block::
 
    MIX →
 
-.. topic::
+.. line-block::
 
    Elza Soares - Computadores fazem arte [Brazil, South America]
 
-.. topic::
+.. line-block::
 
    🔊 https://www.youtube.com/watch?v=A2XJ3xdeYT8
 
 
-.. topic::
+.. line-block::
 
    digital clock in conways game of life
 
-.. topic::
+.. line-block::
 
    🎥 https://www.youtube.com/watch?v=3NDAZ5g4EuU
 
 
-.. topic::
+.. line-block::
 
    Deep Ocean: 10 Hours of Relaxing Oceanscapes | BBC Earth
 
-.. topic::
+.. line-block::
 
    🎥 https://www.youtube.com/watch?v=t_S_cN2re4g&t=22776s
 
 
 
 
-.. topic::
+.. line-block::
 
    ←
 
