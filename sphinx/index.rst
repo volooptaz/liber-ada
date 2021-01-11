@@ -12,11 +12,3 @@ Welcome to Liber Ada's documentation!
 
    roteiro
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
